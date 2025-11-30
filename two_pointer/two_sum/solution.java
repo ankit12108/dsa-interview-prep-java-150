@@ -1,4 +1,4 @@
-package two_pointer;
+package two_pointer.two_sum;
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
