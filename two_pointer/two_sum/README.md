@@ -1,4 +1,3 @@
-<<<<<<< HEAD:two_pointer/two_sum/README.md
 # 01 — Two Sum (Sorted)
 🔹 Difficulty: Medium  
 🔹 Category: Two Pointer
