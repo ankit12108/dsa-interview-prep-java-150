@@ -4,8 +4,9 @@
 Given a string `s`, determine whether it is a **palindrome**, considering **only alphanumeric characters** and **ignoring cases**.
 
 Example:  
-Input → `"A man, a plan, a canal: Panama"`  
-Output → `true`
+Input: s = "Was it a car or a cat I saw?"
+
+Output: true
 
 ---
 
@@ -29,5 +30,6 @@ Steps:
 | Space | **O(1)** — no extra data structure used |
 
 ---
+
 
 
